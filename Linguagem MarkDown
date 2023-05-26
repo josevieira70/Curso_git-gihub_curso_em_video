@@ -1,0 +1,27 @@
+Formatação:
+
+**XX** ou __XX__ Negrito
+
+*XX* ou _XX_ itálico 
+
+~~XX~~ riscado
+
+# Título nível 1
+## Título nível 2
+### Título nível 3
+
+--- ou *** Faz uma linha
+
+Lista numerada: 
+
+Num. + . /dando 3 espaços gera a sublista numerada
+ 
+Lista demarcada:
+
+* Texto ou - Texto /dando 3 espaços gera a sublista
+
+Lista de tarefas:
+
+-[ ] Texto / colocar x dentro do [] marca a atividade
+
+
